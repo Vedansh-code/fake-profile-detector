@@ -47,6 +47,10 @@ Our goal is to create a reliable detection pipeline that can assist in:
 
 (Results may vary depending on dataset and tuning.)
 
+## Conclusion
+This project shows how machine learning can effectively detect fake social media profiles using behavioral and profile-based features.
+It provides a solid foundation for improving online safety, with potential to expand into deep learning, network analysis, and AI-generated content detection for even greater accuracy.
+
 ## 🛠 Installation & Usage
 
 ###  Clone the repository
