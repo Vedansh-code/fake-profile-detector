@@ -47,6 +47,14 @@ Our goal is to create a reliable detection pipeline that can assist in:
 
 (Results may vary depending on dataset and tuning.)
 
+## Future Scope
+
+**NLP for Profile Bios** – Use natural language processing to analyze profile bios, posts, and captions for patterns common in fake accounts.
+
+**Image Authenticity Detection** – Apply machine learning/CNNs to check if a profile image is AI-generated, stolen, or manipulated.
+
+**Network Graph Analysis** – Map and analyze follower/following connections to detect suspicious account clusters.
+
 ## Conclusion
 This project shows how machine learning can effectively detect fake social media profiles using behavioral and profile-based features.
 It provides a solid foundation for improving online safety, with potential to expand into deep learning, network analysis, and AI-generated content detection for even greater accuracy.
